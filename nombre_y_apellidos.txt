@@ -1,0 +1,13 @@
+Los datos son: 
+Nombre: Lucas 
+ Apellido: Fel 
+------------------
+Nombre: Milagros 
+ Apellido: Bogliano 
+------------------
+Nombre: Natalia 
+ Apellido: Martinez 
+------------------
+Nombre: Agustin 
+ Apellido: Cea 
+------------------
